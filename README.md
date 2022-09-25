@@ -1,3 +1,3 @@
 # TinAnal
 
-This is a project for analization Russian tinder
+This is a tinder analysis project
